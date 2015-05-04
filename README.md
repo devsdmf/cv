@@ -66,8 +66,6 @@ Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BR
 - CRM and ERP systems
 - Test and update applications in production server
 
-I was a full stack engineer developing a variety of web applications for company customers, like a websites, blogs, portals, CRM/ERP systems and open APIs.
-
 #### Compuway Ensino Profissionalizante
 *Instructor (Feb 2011 - Jun 2011)*
 
