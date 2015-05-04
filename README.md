@@ -31,7 +31,13 @@ Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BR
 #### Compuway Ensino Profissionalizante
 *Instructor (Feb 2011 - Jun 2011)*
 
-> This was my first IT job, I was a instructor in a local school teaching classes of basic and advanced computing, web design, setup and maintenance of computers and setup and administration of computer networks.
+> This was my first IT job, I was a instructor in a local school, teaching classes about computing, my role was teach classes of:
+- Basic Computing
+- Advanced Computing
+- Web Design (HTML, CSS)
+- Web Development (PHP, JavaScript)
+- Hardware e Computer Maintenance
+- Setup and Administration of Computer Networks
 
 ## Education
 
