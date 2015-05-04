@@ -13,20 +13,60 @@ Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BR
 
 ## Work Experience
 
+#### ISET - Internet, Soluções e Tecnologia LTDA
+*Backend Lead Engineer (Jan 2015 - Actually)*
+
+> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for: 
+- Design and develop the base architecture of the backend of company products
+- Research for the technologies to be used in the backend stack
+- Analysis of cost and time to implement new features on the legacy version of the e-commerce platform
+- Organize and delegate tasks by priority to the backend team
+
+*Backend Software Engineer and Site Reliability (Jan 2014 - Jan 2015)*
+
+> In this time, I still developing and maintaining the company products that I've worked as a Full Stack Software Engineer, but in this role I started focusing my in improve the main company product, an e-commerce platform, this platform have an user base of more than 3k stores and uncountable buyers, then, this new role consists in:
+- Monitor the e-commerce servers doing performance fixes, uptime improvements and supporting failures during large processing times
+- Implement and maintain a version control server
+- Migrate stores between servers
+- Research and analysis of new integrations to improve the value of the e-commerce platform
+- Develop and maintain a mailer service that consists in a REST API, queue handling, dedicated processing, delivery reports and outgoing IP balancing based on ISP charge.
+
+
+*Full Stack Software Engineer (Jan 2013 - Jan 2014)*
+
+> In this role I was a full stack engineer, responsible to maintain and improve the company products, my main reponsibilities was:
+- Maintain and implement new features on a Chat platform developed in PHP and JavaScript
+- Maintain and implement new features on a e-commerce platform developed in PHP
+- Implement integration API's to improve the seller experience in e-commerce platform
+- Develop third party libraries to improve the ecommerce product
+- Develop a contracting system for the company products, using PHP, BackboneJS and RequireJS
+
 #### Caravane Social Travel
 *Chief Technology Officer (Dec 2013 - Jan 2015)*
 
-> Caravane is a platform of social travel that seeks bring to people a new way to go to distant events in your country. This project are locked for now.
-
-#### ISET - Internet, Soluções e Tecnologia LTDA
-*Software Engineer / Back-end Lead Engineer (Jan 2013 - Actually)*
-
-> On ISET, I am a software engineer that coordinates the back-end development of company products, using Symfony 2, MySQL, MongoDB, Memcached, NodeJS as back-end stack and BackboneJS, Marionette and RequireJS as our frontend stack. The main product that I work in company is the e-commerce platform, a scalable application that have an user base of 3k stores and uncountable clients. Not only that, I help too in the setup and maintenance of Linux servers of a big network to support all these stores and other services like mail marketing and live chat platforms.
+> Caravane Social Travel was a startup based in Belo Horizonte, that offers a platform to organize and manage caravans, I was a co-founder and the chief technology officer, my role was:
+- Research the market and the technology application
+- Develop and maintain an MVP
+- Validate the technology experience
+- Validate the travel and transportation market
 
 #### Aplus Tecnologia e Engenharia LTDA
-*Full Stack Engineer (Jun 2011 - Jan 2013)*
+*Lead Software Engineer (Apr 2012 - Jan 2013)*
 
-> I was a full stack engineer developing a variety of web applications for company customers, like a websites, blogs, portals, CRM/ERP systems and open APIs.
+> At Aplus, I became a lead software engineer coordinating the development of the new products in company, I was responsible for:
+- Research and implement new technologies
+- Develop new applications for the company clients
+- Maintain and improve the company products
+- Production servers tunning
+
+*Full Stack Software Engineer (Jun 2011 - Apr 2012)*
+
+> In this role I was a full stack engineer, responsible to maintain and deploy the company applications, like:
+- Blogs, portals and websites
+- CRM and ERP systems
+- Test and update applications in production server
+
+I was a full stack engineer developing a variety of web applications for company customers, like a websites, blogs, portals, CRM/ERP systems and open APIs.
 
 #### Compuway Ensino Profissionalizante
 *Instructor (Feb 2011 - Jun 2011)*
@@ -69,5 +109,3 @@ Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BR
 - Help N' Cloud - Customer support system with bugtracker integration that was a final project in AS degree.
 - Robotic Battle - Hackathon using C Ansi for programming robots to challenges. - Winner Team 2010
 - Many others.
-
-
