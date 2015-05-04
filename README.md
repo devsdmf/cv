@@ -9,12 +9,12 @@ Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BR
 
 ## Summary
 
-> Experienced full stack developer with 7yrs of backend engineering and 4yrs also of frontend engineering, focused on web technologies such as PHP, C++, JS and some others, using computer engineering concepts, agile development methodologies, best practices of development and self documented code, I am a software engineer passionate for open source, innovation entrepreneurship and music.
+> Experienced full stack developer with more than 7 years of experience of backend engineering and 4 years of frontend engineering, focused on web technologies, scalable applications, server-side applications, api design, data analysis, mailing service architecture and security research. Specialist in development of hybrid-technology applications using the most recent tools like PHP, JavaScript, C ANSI and C++. I am passionate for the Open Source community and their technologies, contributing with projects always as possible, to finish, I am a technology entrepreneur looking for opportunities to innovate over the existing markets and build new products.
 
 ## Work Experience
 
 #### Caravane Social Travel
-*Chief Technology Officer (Dec 2013 - Actually)*
+*Chief Technology Officer (Dec 2013 - Jan 2015)*
 
 > Caravane is a platform of social travel that seeks bring to people a new way to go to distant events in your country. This project are locked for now.
 
