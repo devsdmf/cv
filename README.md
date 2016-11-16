@@ -4,54 +4,53 @@ Basic Information | |
 -------- | -------------------------------------------------------------------------
 e-Mail: | devsdmf@gmail.com |
 Phone: | +55 31 8100 6446 |
-Website: | http://www.devsdmf.net |
-Address: | Rua Hilarino Benedito Malta, Madre Gertrudes, Belo Horizonte, MG - BRA |
+Website: | [http://www.devsdmf.io](http://www.devsdmf.io) |
 GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 
 ## Summary
 
-> Experienced full stack developer with more than 7 years of experience of backend engineering and 4 years of frontend engineering, focused on web technologies, scalable applications, server-side applications, api design, data analysis, mailing service architecture and security research. Specialist in development of hybrid-technology applications using the most recent tools like PHP, JavaScript, C ANSI and C++. I am passionate for the Open Source community and their technologies, contributing with projects always as possible, to finish, I am a technology entrepreneur looking for opportunities to innovate over the existing markets and build new products.
+> Experienced full stack developer with more than 7 years of experience in backend engineering and 4 years of frontend engineering, focused on scalable web and mobile technologies, server-side applications, api design, data analysis, service oriented architecture and security research. Specialist in modelling and development of hybrid-technology applications using the most recent and powerful technologies like JavaScript, PHP, C ANSI, C++, NodeJS, Hadoop, MongoDB, Redis, Memcached and etc. I am passionate for the Open Source community and their technologies, contributing with projects always as possible, whether developing or supporting them, furthermore, I am a technology entrepreneur looking for opportunities to innovate over the existing markets focusing on learn and build innovative projects and new technologies.
 
 ## Work Experience
 
-#### ISET - Internet, Soluções e Tecnologia LTDA
+#### ISET INTERNET INC.
 *Backend Lead Engineer (Jan 2015 - Actually)*
 
-> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for: 
-- Design and develop the base architecture of the backend of company products
+> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for:
+- Design and develop the base backend architecture of company products
 - Research for the technologies to be used in the backend stack
-- Analysis of cost and time to implement new features on the legacy version of the e-commerce platform
+- Analysis of cost and time to implement new features on the e-commerce platform
 - Organize and delegate tasks by priority to the backend team
+- Design, develop and grow the platform integrations keeping a relationship with company partners
 
 *Backend Software Engineer and Site Reliability (Jan 2014 - Jan 2015)*
 
-> In this time, I still developing and maintaining the company products that I've worked as a Full Stack Software Engineer, but in this role I started focusing my in improve the main company product, an e-commerce platform, this platform have an user base of more than 3k stores and uncountable buyers, then, this new role consists in:
-- Monitor the e-commerce servers doing performance fixes, uptime improvements and supporting failures during large processing times
-- Implement and maintain a version control server
-- Migrate stores between servers
-- Research and analysis of new integrations to improve the value of the e-commerce platform
-- Develop and maintain a mailer service that consists in a REST API, queue handling, dedicated processing, delivery reports and outgoing IP balancing based on ISP charge.
+> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for:
+- Design and develop the base backend architecture of company products
+- Research for the technologies to be used in the backend stack
+- Analysis of cost and time to implement new features on the e-commerce platform
+- Organize and delegate tasks by priority to the backend team
+- Design, develop and grow the platform integrations keeping a relationship with company partners
 
 
-*Full Stack Software Engineer (Jan 2013 - Jan 2014)*
+*Software Engineer (Jan 2013 - Jan 2014)*
 
 > In this role I was a full stack engineer, responsible to maintain and improve the company products, my main reponsibilities was:
-- Maintain and implement new features on a Chat platform developed in PHP and JavaScript
+- Maintain and implement new features on a chat platform developed in PHP and JavaScript
 - Maintain and implement new features on a e-commerce platform developed in PHP
 - Implement integration API's to improve the seller experience in e-commerce platform
 - Develop third party libraries to improve the ecommerce product
 - Develop a contracting system for the company products, using PHP, BackboneJS and RequireJS
 
-#### Caravane Social Travel
-*Chief Technology Officer (Dec 2013 - Jan 2015)*
+#### CARAVANE SOCIAL TRAVEL
+*Founder and CTO (Dec 2013 - Jan 2015)*
 
-> Caravane Social Travel was a startup based in Belo Horizonte, that offers a platform to organize and manage caravans, I was a co-founder and the chief technology officer, my role was:
+> Caravane is a social travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans, I'm of those co-founders and the chief technology officer. My main responsibilities consists in:
 - Research the market and the technology application
 - Develop and maintain an MVP
 - Validate the technology experience
-- Validate the travel and transportation market
 
-#### Aplus Tecnologia e Engenharia LTDA
+#### APLUS TECNOLOGIA E ENGENHARIA LTDA.
 *Lead Software Engineer (Apr 2012 - Jan 2013)*
 
 > At Aplus, I became a lead software engineer coordinating the development of the new products in company, I was responsible for:
@@ -60,14 +59,14 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 - Maintain and improve the company products
 - Production servers tunning
 
-*Full Stack Software Engineer (Jun 2011 - Apr 2012)*
+*Software Engineer (Jun 2011 - Apr 2012)*
 
 > In this role I was a full stack engineer, responsible to maintain and deploy the company applications, like:
 - Blogs, portals and websites
 - CRM and ERP systems
 - Test and update applications in production server
 
-#### Compuway Ensino Profissionalizante
+#### COMPUWAY ENSINO PROFISSIONALIZANTE LTDA.
 *Instructor (Feb 2011 - Jun 2011)*
 
 > This was my first IT job, I was a instructor in a local school, teaching classes about computing, my role was teach classes of:
@@ -81,7 +80,7 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 ## Education
 
 #### BS in Computer Science
-*University Center of Belo Horizonte*
+*Pontifical Catholic University of Minas Gerais*
 
 #### Student to Business
 *Microsoft*
@@ -92,19 +91,47 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 
 ## Technical Background
 
-- Programming Languages: C Ansi, C++, PHP, Perl, Java, JavaScript, NodeJS, Python, Ruby, Shell Script, Objective Pascal, ActionScript.
-- Frameworks: Zend Framework 1&2, Symfony 2, Silex, CodeIgniter, jQuery, BackboneJS, SailsJS, KrakenJS, Less, PhoneGap, Sencha and others.
-- Database: MySQL, MongoDB, SQL Server, PostgreSQL.
-- Operating Systems: Linux, OS X, Windows, BSD.
-- Technologies: Apache, Redis, Memcached, GIT.
-- Methodologies: OOP, Design Patterns, Self-Documenting, REST, Scrum, XP.
-- Other relevant information: Web Services, API design, security care, OAuth.
+- Programming/Scripting Languages (separated by proficiency): 
+  - Advanced: C Ansi, C++, PHP, JavaScript, CSS, NodeJS, Shell Script, ActionScript
+  - Intermediate: Java, Python, Objective Pascal, Hack (Facebook's Programming Language)
+  - Basic: Ruby
+- Frameworks and Tools (separated by language/technology): 
+  - PHP: Zend Framework 1&2, Symfony 2&3, Silex, CodeIgniter, Slim, Laravel, Doctrine, **PHP Core Extension Development**
+  - JavaScript: jQuery, BackboneJS (Marionette), AngularJS
+  - CSS: Less
+  - NodeJS: ExpressJS, KrakenJS, SailsJS, Socket.io
+  - Hybrid Mobile Development: SenchaTouch, PhoneGap, Ionic, React Native
+  - Python: Django, NumPy, SciPy
+  - Ruby: Rails
+- Database and Object Storages: MySQL, SQL Server, PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis, Memcached
+- Operating Systems: Linux, OSX, Windows
+- Web Servers: Apache, NGINX, IIS, NodeJS, PHP Built-in WebServer
+- Versioning: GIT and SVN
+- Infrastructure: AWS, Azure, Google AppEngine and Google Cloud Plaftorm
+- Methodologies and Patterns: RESTful, OAuth, JSON, XML, OOP, SOLID, Design Patterns, Self-Documenting, Scrum, XP, Continuous Integration, Continuous Delivery, TDD, BDD
+- Plus Experience: API Design, Scalable Software Architecture, Cloud Infrastructure Engineering, SaaS, PaaS, IaaS, Microservices Architecture, Distributed Software Architecture
 
 ## Projects and Contributions
 
+- Module Audio Extension - A PHP extension to play module audio files in CLI environment. (https://github.com/devsdmf/php-mod-player)
 - DataMonkey - Simple ORM for PHP projects built on top of Doctrine. (https://github.com/devsdmf/datamonkey)
 - AwMailer - Mailer service for mail marketing applications that allows you control your campaign, processes, custom message body, HTTP headers and some other features. (https://github.com/devsdmf/awmailer)
-- Slice Framework - PHP Micro-framework (https://github.com/PHPSlice)
-- Help N' Cloud - Customer support system with bugtracker integration that was a final project in AS degree.
+- Slice HTTP Library - A thin PHP Library to perform HTTP requests (https://github.com/devsdmf/slice-http)
+- Symfony Framework - The Symfony PHP framework (https://github.com/symfony/symfony)
+- Zend\Cache Silex Component - Cache provider for Silex framework (https://github.com/devsdmf/silex-zend-cache-provider)
+- Help N' Cloud - Customer support system with bugtracker integration as a AS degree final project.
 - Robotic Battle - Hackathon using C Ansi for programming robots to challenges. - Winner Team 2010
-- Many others.
+- So many others...
+
+## Articles and Publications
+
+- The Journey of a PHP Developer - [https://medium.com/@devsdmf/the-journey-of-a-php-developer-682e13e7c7cd](https://medium.com/@devsdmf/the-journey-of-a-php-developer-682e13e7c7cd)
+- Vamos Seguir os Padrões? - [https://medium.com/@devsdmf/vamos-seguir-os-padroes-539232f2314](https://medium.com/@devsdmf/vamos-seguir-os-padroes-539232f2314)
+- Solidariedade em Desenvolvimento de Software - [https://medium.com/@devsdmf/solidariedade-em-desenvolvimento-de-software-e2b4ad978437](https://medium.com/@devsdmf/solidariedade-em-desenvolvimento-de-software-e2b4ad978437)
+
+## Classes and Talks
+
+- [Commit Your Team to an Stable Version](https://speakerdeck.com/devsdmf/commit-your-team-to-an-stable-version) - Using GIT in your team, the right way.
+- [puc.min.js - Introdução à JavaScript](https://speakerdeck.com/devsdmf/puc-dot-min-dot-js-introducao-a-javascript) - A introduction course to the JavaScript language, presented at the "Escola de Férias" program in the Pontifical Catholic University of Minas Gerais.
+- [GIT Versioning - From Padawans to Jedis](https://speakerdeck.com/devsdmf/git-versioning-from-padawans-to-jedis) - An overview about GIT version control and an introduction of how to use it correctly, presented at PUC Padawan's MeetUp group.
+- [PHP - Uma Introdução à Web Dinâmica](https://speakerdeck.com/devsdmf/php-uma-introducao-a-web-dinamica) - A introduction course to the PHP language, presented at the "Escola de Férias" program in the Pontifical Catholic University of Minas Gerais.
