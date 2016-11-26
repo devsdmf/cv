@@ -81,9 +81,8 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 #### BS in Computer Science
 *Pontifical Catholic University of Minas Gerais*
 
-#### Student to Business
-*Microsoft*
-> Silverlight and SharePoint certifications
+#### Silverlight and SharePoint Certification Program
+*Microsoft Student to Business*
 
 #### AS in Information Technology
 *Polytechnic School of Minas Gerais*
