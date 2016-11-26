@@ -14,7 +14,7 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 ## Work Experience
 
 #### ISET INTERNET INC.
-*Backend Lead Engineer (Jan 2015 - Actually)*
+*Lead Backend Engineer (Jan 2015 - Actually)*
 
 > As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for:
 - Design and develop the base backend architecture of company products
@@ -25,13 +25,12 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 
 *Backend Software Engineer and Site Reliability (Jan 2014 - Jan 2015)*
 
-> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for:
-- Design and develop the base backend architecture of company products
-- Research for the technologies to be used in the backend stack
-- Analysis of cost and time to implement new features on the e-commerce platform
-- Organize and delegate tasks by priority to the backend team
-- Design, develop and grow the platform integrations keeping a relationship with company partners
-
+>In this time, I still developing and maintaining the company products that I've worked as Software Engineer, but in this role I started focusing on the improvement of the main company product, an e-commerce platform, and this platform have thousand of stores and uncountable buyers, so this new role consists in:
+- Monitor the e-commerce servers doing performance fixes, uptime improvements and supporting failures during large processing times
+- Implement and maintain a version control server
+- Migrate stores between our server stacks
+- Research and analysis of new integrations to improve the value of the e-commerce platform
+- Develop and maintain a mailer service that consists in a REST API, queue handling, dedicated and distributed processing, delivery reports and outgoing IP balancing based on ISP charge.
 
 *Software Engineer (Jan 2013 - Jan 2014)*
 
