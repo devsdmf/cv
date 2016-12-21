@@ -133,3 +133,4 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 - [puc.min.js - Introdução à JavaScript](https://speakerdeck.com/devsdmf/puc-dot-min-dot-js-introducao-a-javascript) - A introduction course to the JavaScript language, presented at the "Escola de Férias" program in the Pontifical Catholic University of Minas Gerais.
 - [GIT Versioning - From Padawans to Jedis](https://speakerdeck.com/devsdmf/git-versioning-from-padawans-to-jedis) - An overview about GIT version control and an introduction of how to use it correctly, presented at PUC Padawan's MeetUp group.
 - [PHP - Uma Introdução à Web Dinâmica](https://speakerdeck.com/devsdmf/php-uma-introducao-a-web-dinamica) - A introduction course to the PHP language, presented at the "Escola de Férias" program in the Pontifical Catholic University of Minas Gerais.
+- [RESTful APIs - Let your apps talk to each other](https://speakerdeck.com/devsdmf/restful-apis-let-your-apps-talk-to-each-other)
