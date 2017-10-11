@@ -21,15 +21,6 @@ GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
 - Design of APIs for services intercommunication, both for internal and external integrations
 - so much more.
 
-#### MOVI CRIATIVO
-*Project Manager (Mar 2017 - Actually)*
-> Movi Criativo is an advertising agency that holds a lot different approach projects, so in this role I took the project management responsibilites to work with the team helping the company to achieve their goals in a useful time, main of my responsibilites was:
-- Management of projects and workflows to get the work done
-- Lead daily and weekly meetings with the teams
-- Prioritize demands, based on it's deliverable value for the customers of the company
-- Help the design and development teams to solve the biggest problems in order to achieve the sprint goals in time
-- Analysis and presentation of the performance of the projects and teams
-
 #### ISET INTERNET INC.
 *Lead Backend Engineer (Jan 2015 - Apr 2017)*
 
