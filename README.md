@@ -15,6 +15,15 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 ## Work Experience
 
 #### TIENDA NUBE
+*Software Architect (May 2019 - Actually)*
+> After finished my work as a Technical Product Owner, I've got back to my previous role as a Software Architect, now working in the Fulfillments and Shipments team, responsible to:
+- Analysis, design and development of the new Fulfillments API that will replace the actual monolithic solution in PHP. This new service will be developed in the same stack as the brand new payments service that I developed in my previous role in the Payments team.
+- Help other engineers to maintain and develop new features in the core platform using PHP and JavaScript.
+- Attend to Product Architecture Committee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
+- Design, define and document the domain's IPC for both internal and external integrations.
+
+> After acting as a Product Owner, I've got back to my previou
+
 *Technical Product Owner (Oct 2018 - May 2019)*
 > As a Technical Product Owner, I started to work in the Ecosystem team, that was responsible to develop and improve our public APIs and app's directory to provide an extensible platform experience to our customer through key-partnerships acquired by the Commercial Partners team. My main responsibilities in this role was:
 - Collect inputs from the stakeholders and develop a backlog for the team with those insights
