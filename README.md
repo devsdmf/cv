@@ -3,7 +3,6 @@
 Basic Information | |
 --- | ---
 e-Mail: | devsdmf@gmail.com |
-Phone: | +55 31 981 006 446 |
 Website: | [http://www.devsdmf.io](http://www.devsdmf.io) |
 LinkedIn: | [https://www.linkedin.com/in/devsdmf](https://www.linkedin.com/in/devsdmf) |
 GitHub Profile: | [https://github.com/devsdmf](https://github.com/devsdmf) |
@@ -16,81 +15,84 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 ## Work Experience
 
 #### TIENDA NUBE
-*Product Owner (Oct 2018 - Actually)*
-> As a Product Owner, I started to work in a different team called as Ecosystem, that was responsible to develop and improve our public APIs and app's directory to provide a module platform experience to our customers and partners. My main responsibilities in that role was:
-- Collect feedback from the main stakeholders to output a backlog for the team.
-- Prioritize and define sprints of 6 weeks to the team and perform follow-up meetings during this time-window in order to deliver the projects in the cycle time.
-- Provide team feedback in retrospective meetings in order to improve the quality of the projects taken by the team.
-- Write down, review and release developer resources in order to provide the best experience to the partners that are willing to integrate with our products.
+*Technical Product Owner (Oct 2018 - May 2019)*
+> As a Technical Product Owner, I started to work in the Ecosystem team, that was responsible to develop and improve our public APIs and app's directory to provide an extensible platform experience to our customer through key-partnerships acquired by the Commercial Partners team. My main responsibilities in this role was:
+- Collect inputs from the stakeholders and develop a backlog for the team with those insights
+- Organize and prioritize the team's backlog in order to output cycles and sprints of work to meet the company objectives
+- Support a team of product engineers and product designers to meet the cycle/sprint objectives through daily and weekly meetings, helping them to get unblocked giving them the necessary information and tools to get their work done.
+- Provice team feedback through retrospective meetings and performance review processes in order to improve the team's health and the project's quality.
+- Write down, review and release developer resources to help partners that are willing to integrate with our products.
 
 *Software Architect (Apr 2017 - Sep 2018)*
-> As a Software Architect, I've got to tackle the challenges in the product team, working to achieve the best solution for architectural problems in a service-oriented and micro-services architecture. My main responsibilities consists in:
-- Analysis and design of the platform architecture, splitting the monolithic legacy platform codebase, into well-designed, maintainable and powerful micro-services to process the platform payments, using a Scala based stack, implementing Actor Model based systems, using MongoDB to persist events and also ActiveMQ for IPC.
-- Design, document and develop applications and services that scales as the complexity increases, using DDD to meet the business requirements.
-- Design, define and document IPC’s both for internal and external integrations
+> Tiendanube is an ecosystem of services that provides products to build e-commerce systems through an intuitive and extensible platfrom that makes it easy to start your online business.
+> As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities was:
+- Analysis, design and development of a new service responsible to process consumer's payments, aiming to replace the actual solution inside the monolith platform in PHP. This new micro-service was developed using a Scala based stack, implementing Actor Model using Akka framework, MongoDB for the persistence layer for the event sourcing and ActiveMQ for IPC
+- Attend to Product Architecture Comitee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services
+- Design, define and document IPC's for both internal and external integrations
 
 #### ISET INTERNET INC.
 *Lead Backend Engineer (Jan 2015 - Apr 2017)*
 
-> As a Backend Lead Engineer, I started to coordinate the backend design and development of our team, being responsible for:
-- Design and develop the base backend architecture of company products
-- Research for the technologies to be used in the backend stack
-- Analysis of cost and time to implement new features on the e-commerce platform
-- Organize and delegate tasks by priority to the backend team
-- Design, develop and grow the platform integrations keeping a relationship with company partners
+> For the last two years in company, I've acted as the Lead Engineer in the mobile platform team, being responsible for:
+- Analysis, design and development of the backend architecture for the mobile e-commerce platform
+- Help other engineers as a technical reference for the product development and key decision advisor
+- Research and development of tools and frameworks for the engineers working in the platform
+- Management and prioritization of the product backlog in a technical view along of the product leads and company executives
 
 *Backend Software Engineer and Site Reliability (Jan 2014 - Jan 2015)*
 
->In this time, I still developing and maintaining the company products that I've worked as Software Engineer, but in this role I started focusing on the improvement of the main company product, an e-commerce platform, and this platform have thousand of stores and uncountable buyers, so this new role consists in:
-- Monitor the e-commerce servers doing performance fixes, uptime improvements and supporting failures during large processing times
-- Implement and maintain a version control server
-- Migrate stores between our server stacks
-- Research and analysis of new integrations to improve the value of the e-commerce platform
-- Develop and maintain a mailer service that consists in a REST API, queue handling, dedicated and distributed processing, delivery reports and outgoing IP balancing based on ISP charge.
+> One year after starting my job in the company and with the team growing I've got a set of new responsibilities, now focused in the backend architecture and development, and also the platform stability in production environments. Now, beyond the software development responsibilities, I was also responsible to:
+
+- Monitor and maintain the e-commerce platform infrastructure doing performance tweaks in order support large processing times needed by background tasks dispatched by internal system components, also doing security fixes in order to platform reliability and security.
+- Implement and maintain a self-hosted version control system (GitLab).
+- Research and analysis of new technologies to be used in our backend stack.
+- Develop and maintain a fresh new mailer service to be used by the new version of the CRM platform that was being developed by the another team. This new mailer service was named AwMailer and was developed using PHP and C++. The core functionality now is an open source project available at [GitHub](https://github.com/devsdmf/awmailer), but the internal extension for outgoing IP address balancing stills a proprietary project.
 
 *Software Engineer (Jan 2013 - Jan 2014)*
 
-> In this role I was a full stack engineer, responsible to maintain and improve the company products, my main reponsibilities was:
-- Maintain and implement new features on a chat platform developed in PHP and JavaScript
-- Maintain and implement new features on a e-commerce platform developed in PHP
-- Implement integration API's to improve the seller experience in e-commerce platform
-- Develop third party libraries to improve the ecommerce product
-- Develop a contracting system for the company products, using PHP, BackboneJS and RequireJS
+> ISET is a technology company from Belo Horizonte, Brazil, that provides digital products to its customers. The main product is an e-commerce platform (iShopping), integrated with other company products like CRM (iMarketing) and chatting (iChat) systems.
+
+> As a software engineer, I started to work with the e-commerce and chatting platform, mainly responsible to:
+
+- Maintain and implement new features in the e-commerce platform using PHP as the main language.
+- Maintain and implement new features in the chatting platform using PHP and JavaScript.
+- Integrate partner's services into the e-commerce core platform, like payment gateways, shipping carriers and new sales-channels, to improve the merchant's experience.
+- Develop and maintain internal tools to help other teams to integrate their products into the ours.
+- Implement a new contracting system for the company products from scratch using PHP, BackboneJS with MarionetteJS as the technology stack.
 
 #### CARAVANE SOCIAL TRAVEL
 *Founder and CTO (Dec 2013 - Jan 2015)*
 
-> Caravane is a social travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans, I'm of those co-founders and the chief technology officer. My main responsibilities consists in:
-- Research the market and the technology application
-- Develop and maintain an MVP
-- Validate the technology experience
+> Caravane was a social-travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans (a shared-trip model). I was one of the co-founders and I've worked mainly as a hands-on CTO along of the other founders. My main responsibilities was:
 
-#### APLUS TECNOLOGIA E ENGENHARIA LTDA.
-*Lead Software Engineer (Apr 2012 - Jan 2013)*
+- Research the technology application to meet the market needings with help of the other founders.
+- Prioritize along of the other members the product backlog.
+- Develop the MVP for market validation, mainly in PHP and NodeJS for backend and vanilla JS and HTML for the frontend.
+- Build and validate dashboards with product metrics provided by monitoring and product analysis tools.
 
-> At Aplus, I became a lead software engineer coordinating the development of the new products in company, I was responsible for:
-- Research and implement new technologies
-- Develop new applications for the company clients
-- Maintain and improve the company products
-- Production servers tunning
+#### APLUS TECNOLOGIA E ENGENHARIA
+*Software Developer (Jun 2011 - Jan 2013)*
 
-*Software Engineer (Jun 2011 - Apr 2012)*
+> Aplus Tecnologia is a web-development agency where I mainly worked as a software developer.
+> This was my first experience as a full-time software developer, where I had the opportunity to learn more about the software development process from the initial analysis of a customer’s problem, to the delivery of the software artefact in the production environment. During this time, my main responsibilities was:
 
-> In this role I was a full stack engineer, responsible to maintain and deploy the company applications, like:
-- Blogs, portals and websites
-- CRM and ERP systems
-- Test and update applications in production server
+- Research and implement new technologies from scratch to meet the business requirements of each company’s customer.
+- Analysis and technical documentation of the software development process.
+- Develop web applications using PHP, Ruby and JavaScript.
+- Maintain and improve two company products, a local guide website for restaurants and pubs and an ERP software.
+- Deployment and monitoring of applications running both in VPS and shared-cPanel based hosting servers.
 
-#### COMPUWAY ENSINO PROFISSIONALIZANTE LTDA.
-*Instructor (Feb 2011 - Jun 2011)*
+#### COMPUWAY ENSINO PROFISSIONALIZANTE
+*Course Instructor (Feb 2011 - Jun 2011)*
 
-> This was my first IT job, I was a instructor in a local school, teaching classes about computing, my role was teach classes of:
-- Basic Computing
-- Advanced Computing
-- Web Design (HTML, CSS)
-- Web Development (PHP, JavaScript)
-- Hardware e Computer Maintenance
-- Setup and Administration of Computer Networks
+> This was my first IT job, I was a course instructor in a local school, teaching classes about computer-related topics, the classes was mainly:
+
+- Basic Computing: How to use a personal computer to do simple tasks like internet browsing, e-mail conversations, write documents, spreadsheets and slide presentations using Microsoft Office's software suite and so on.
+- Advanced Computing: How to setup a computer for the work environment, how to manage computer files and its different formats and compression tools, how to manage data using Microsoft Office Access, and so on.
+- Web Design: Classes about design and coding web pages using basic HTML and CSS techniques.
+- Web Development: Classes about web development using PHP and MySQL databases.
+- Hardware e Computer Maintenance: Classes about the computer components, how to setup a new computer from the scratch, backup techniques and broken component replacements.
+- Setup and Administration of Computer Networks: Classes about network setup using Microsoft Windows Server, Active Directory configuration and also the configuration of network devices like routes, repeaters and hubs.
 
 ## Education
 
@@ -98,33 +100,32 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 *Pontifical Catholic University of Minas Gerais (Jan 2015 - Jun 2017 / Hold)*
 
 #### Associate of Arts and Sciences (A.A.S.), Information Technology
-*Polytechnic School of Minas Gerais* (Jan 2009 - Dec 2011)
+*Polytechnic School of Minas Gerais (Jan 2009 - Dec 2011)* 
 
 #### Silverlight and SharePoint Certification Program
-*Microsoft Student to Business* (Jul 2011 - Dec 2011)
+*Microsoft Student to Business (Jul 2011 - Dec 2011)*
 
 ## Technical Background
 
 - Programming/Scripting Languages (separated by proficiency): 
-  - Advanced: C Ansi, C++, PHP, JavaScript (and NodeJS), Java, Shell Script, ActionScript
-  - Intermediate: Scala, Python, Objective Pascal, Hack (Facebook's Programming Language), C#
-  - Basic: Ruby, Clojure, Rust
+  - Advanced: C Ansi, Python, PHP, JavaScript (and NodeJS), Shell Script
+  - Intermediate: Java, Scala, C++, Objective Pascal
+  - Basic: Ruby, Clojure, Rust, Go, Hack, ActioScript
 - Frameworks and Tools (separated by language/technology): 
-  - PHP: Zend Framework, Symfony, Silex, CodeIgniter, Slim, Laravel, Doctrine, **PHP Core Extension Development**
-  - Java: Spring, SpringBoot, Play Framework
-  - Scala: Play Framework, Akka
+  - PHP: Symfony, Zend Framework, Silex, Laravel, CodeIgniter, Slim Doctrine, **PHP Core Extension Development**
+  - Java: SpringBoot, Play Framework, Netty
+  - Scala: Play Framework, Akka, Artery
   - C++: Boost, Qt
   - JavaScript: jQuery, BackboneJS (and Marionette), AngularJS, EmberJS, Elm
   - CSS: Sass, Less
-  - NodeJS: ExpressJS, KrakenJS, SailsJS, Socket.io
-  - Hybrid Mobile Development: SenchaTouch, PhoneGap, Ionic
+  - NodeJS: ExpressJS, SailsJS, Socket.io
+  - Hybrid Mobile Development: PhoneGap, Ionic
   - Python: Flask, Django, NumPy, SciPy
-  - Ruby: Rails
-- Database and Object Storages: MySQL, SQL Server, PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis, Memcached
+- Database and Object Storages: MySQL (and MariaDB), PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis, Memcached
 - Operating Systems: Linux, OSX, Windows
-- Web Servers: Apache, nginx, IIS, NodeJS, PHP Built-in WebServer
-- Versioning: GIT and SVN
-- Infrastructure: AWS, Azure, Google AppEngine and Google Cloud Plaftorm
+- Web Servers: Apache, nginx, Tomcat
+- Versioning: GIT
+- Infrastructure: AWS, Google AppEngine and Google Cloud Plaftorm
 - Methodologies and Patterns: RESTful, OAuth, JSON, XML, OOP, SOLID, Design Patterns, Self-Documenting, Scrum, XP, Continuous Integration, Continuous Delivery, TDD, BDD
 - Plus Experience: API Design, Scalable Software Architecture, Cloud Infrastructure Engineering, SaaS, PaaS, IaaS, Microservices Architecture, Distributed Software Architecture
 
@@ -136,12 +137,11 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 - Slice HTTP Library - A thin PHP Library to perform HTTP requests (https://github.com/devsdmf/slice-http)
 - Symfony Framework - The Symfony PHP framework (https://github.com/symfony/symfony)
 - Zend\Cache Silex Component - Cache provider for Silex framework (https://github.com/devsdmf/silex-zend-cache-provider)
-- Help N' Cloud - Customer support system with bugtracker integration as a AS degree final project.
-- Robotic Battle - Hackathon using C Ansi for programming robots to challenges. - Winner Team 2010
-- So many others...
+- more on my [GitHub](https://www.github.com/devsdmf)
 
 ## Articles and Publications
 
+- Framework-agnostic Code (Cover Article) - [https://issuu.com/imasters/docs/imasters_28_v5_issuu](https://issuu.com/imasters/docs/imasters_28_v5_issuu)
 - The Journey of a PHP Developer - [https://medium.com/@devsdmf/the-journey-of-a-php-developer-682e13e7c7cd](https://medium.com/@devsdmf/the-journey-of-a-php-developer-682e13e7c7cd)
 - Vamos Seguir os Padrões? - [https://medium.com/@devsdmf/vamos-seguir-os-padroes-539232f2314](https://medium.com/@devsdmf/vamos-seguir-os-padroes-539232f2314)
 - Solidariedade em Desenvolvimento de Software - [https://medium.com/@devsdmf/solidariedade-em-desenvolvimento-de-software-e2b4ad978437](https://medium.com/@devsdmf/solidariedade-em-desenvolvimento-de-software-e2b4ad978437)
@@ -159,7 +159,7 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 - [Parallel Processing with Daemons in PHP](https://speakerdeck.com/devsdmf/parallel-processing-with-daemons-in-php-splitting-big-problems-into-smaller-pieces) - Presentation about parallel and distributed processing using PHP presented at Campus Party Minas Gerais 2017.
 - [PHP: Extending The Core - Why You Should Learn It](https://speakerdeck.com/devsdmf/php-extending-the-core-why-you-should-learn-it) - A talk about how to create and extend PHP with extensions directly in its core, presented at TDC and PHP Conference Brasil 2017.
 - [Essential Tools for PHP Architects](https://speakerdeck.com/devsdmf/essential-tools-for-php-architects) - A talk about essential tools for every PHP architect, presented at PHP Conference Brasil 2017.
-- [Framework-Agnostic Applications - A story about components](https://speakerdeck.com/devsdmf/framework-agnostic-applications-a-story-about-components) - A talk about Framework-agnostic code presented at PHP eXperience 2018.
+- [Framework-Agnostic Applications - A story about components](https://speakerdeck.com/devsdmf/framework-agnostic-applications-a-story-about-components) - A talk about Framework-agnostic code presented at PHP eXperience 2018, check the presentation video [here](https://www.youtube.com/watch?v=rFGdkrh9BvE&t=708s).
 - [Scaling PHP with Daemons and Long-Running Processes](https://speakerdeck.com/devsdmf/scaling-php-with-daemons-and-long-running-processes) - A talk about how to scale PHP with background processing, presented at PHP Conference Brasil 2018.
 - [Framework-agnostic Code - A story about business and code](https://speakerdeck.com/devsdmf/framework-agnostic-code-a-story-about-business-and-code) - A revamped version of the previous framework-agnostic talk, presented at PHP Conference Brasil 2018.
 
