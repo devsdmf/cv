@@ -22,8 +22,6 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 - Attend to Product Architecture Committee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
 - Design, define and document the domain's IPC for both internal and external integrations.
 
-> After acting as a Product Owner, I've got back to my previou
-
 *Technical Product Owner (Oct 2018 - May 2019)*
 > As a Technical Product Owner, I started to work in the Ecosystem team, that was responsible to develop and improve our public APIs and app's directory to provide an extensible platform experience to our customer through key-partnerships acquired by the Commercial Partners team. My main responsibilities in this role was:
 - Collect inputs from the stakeholders and develop a backlog for the team with those insights
