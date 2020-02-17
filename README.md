@@ -89,9 +89,9 @@ Technology stack: PHP, C Ansi, Python, JavaScript (NodeJS), MySQL, MongoDB, Redi
 
 #### Software Engineer (Jan 2013 - Jan 2014)
 
-> ISET is a technology company from Belo Horizonte, Brazil, that provides digital products to its customers. The main product is an e-commerce platform (iShopping), integrated with other company products like CRM (iMarketing) and chatting (iChat) systems.
+ ISET is a technology company from Belo Horizonte, Brazil, that provides digital products to its customers. The main product is an e-commerce platform (iShopping), integrated with other company products like CRM (iMarketing) and chatting (iChat) systems.
 
-> As a software engineer, I started to work with the e-commerce and chatting platform, mainly responsible to:
+ As a software engineer, I started to work with the e-commerce and chatting platform, mainly responsible to:
 
 - Maintain and implement new features in the e-commerce platform using PHP as the main language.
 - Maintain and implement new features in the chatting platform using PHP and JavaScript.
