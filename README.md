@@ -10,13 +10,16 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 
 ## Summary
 
-> Experienced software architect/engineer, focused in scalable and distributed software design/development, advocating for the software development best practices, using TDD and BDD in a daily-basis. Specialist in backend engineering with technical-background in C/C++, Java, PHP, Python, JavaScript and Scala, with experience in MySQL, MongoDB, Redis, DynamoDB, ElasticSearch, ActiveMQ, Kafka streams, Amazon Web Services (AWS) and more. Also, with experience designing distributed systems using DDD and other architectural and software engineering approaches like Event Sourcing, Event Collaboration and Actor Model-based systems.
+Experienced software architect/engineer, focused in scalable and distributed software design/development, advocating for the software development best practices, using TDD and BDD in a daily-basis. Specialist in backend engineering with technical-background in C/C++, Java, PHP, Python, JavaScript and Scala, with experience in MySQL, MongoDB, Redis, DynamoDB, ElasticSearch, ActiveMQ, Kafka streams, Amazon Web Services (AWS) and more. Also, with experience designing distributed systems using DDD and other architectural and software engineering approaches like Event Sourcing, Event Collaboration and Actor Model-based systems.
 
 ## Work Experience
 
-#### SYMPLA
-*Principal Software Architect (Oct 2019 - Actually)*
-> Sympla is the biggest SaaS ticketing platform in Brazil, and in this role I'm acting as the principal architect in the Engineering department, currently working in the whole platform architecture, migrating from a monolithic to a service oriented architecture approach. As a senior software engineer and principal architect, my main responsibilities consists in:
+### SYMPLA
+
+#### Principal Software Architect (Oct 2019 - Actually)
+
+Sympla is the biggest SaaS ticketing platform in Brazil, and in this role I'm acting as the principal architect in the Engineering department, currently working in the whole platform architecture, migrating from a monolithic to a service oriented architecture approach. As a senior software engineer and principal architect, my main responsibilities consists in:
+
 - Analysis and design of business domains with product managers and analysts in order to identify the necessary services to compose the system's architecture.
 - Analysis, development and improvement of the existing software development processes with engineering managers enabling the squads to being high performers.
 - Analysis, development and documentation of new software systems using PHP, Java and Python to improve the product experience.
@@ -24,9 +27,12 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 
 Technology stack: PHP, Java, Python, JavaScript (NodeJS), Docker, Kubernetes, Rancher, MySQL, MongoDB, Redis, AWS Kinesis, ElasticSearch and more.
 
-#### TIENDA NUBE
-*Senior Software Architect (May 2019 - Sep 2019)*
-> After finished my job as a Technical Product Manager, I've got back to my previous role as a Software Architect, now working in the Fulfillment and Shipments team, responsible to:
+### TIENDA NUBE
+
+#### Senior Software Architect (May 2019 - Sep 2019)
+
+After finished my job as a Technical Product Manager, I've got back to my previous role as a Software Architect, now working in the Fulfillment and Shipments team, responsible to:
+
 - Analysis and development of internal and external system integrations for the existing shipping carriers through the new technology stack using Java and Scala, addressing scalability and reliability issues.
 - Maintainance of the existing systems in the core platform to keep backward compatibility with the existing shipping carriers.
 - Analysis, design and development of new software systems to support the company strategy for shipments, including new services to manage fulfillments through a public API.
@@ -34,8 +40,9 @@ Technology stack: PHP, Java, Python, JavaScript (NodeJS), Docker, Kubernetes, Ra
 
 Technology stack: PHP, Java, Scala, JavaScript, MySQL, MongoDB, Docker, Akka, Apache Kafka and more.
 
-*Technical Product Manager (Oct 2018 - May 2019)*
-> As a Technical Product Manager, I've got the challenge to build a new engineering team from scratch. The Ecosystem team had the mission to enable customers and partners to extend our product through public APIs in order to solve complex business problems. In this position I was responsible to lead the development of an API-based product, where I had to:
+#### Technical Product Manager (Oct 2018 - May 2019)
+
+As a Technical Product Manager, I've got the challenge to build a new engineering team from scratch. The Ecosystem team had the mission to enable customers and partners to extend our product through public APIs in order to solve complex business problems. In this position I was responsible to lead the development of an API-based product, where I had to:
 
 - Collect meaningful inputs from both internal and external stakeholders to develop a product backlog.
 - Prioritize the product backlog using different strategies, always looking for the company OKRs.
@@ -44,19 +51,24 @@ Technology stack: PHP, Java, Scala, JavaScript, MySQL, MongoDB, Docker, Akka, Ap
 - Technical writing of API documentations, developer resources and releases of new features delivered in production.
 - Development and maintainance of SDKs and sample projects that serves as tools and reference to developers that are aiming to integrate with out public API.
 
-*Software Architect (Apr 2017 - Sep 2018)*
-> Tiendanube is an ecosystem of services that provides products to build e-commerce systems through an intuitive and extensible platfrom that makes it easy to start your online business.
-> As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities were:
+#### Software Architect (Apr 2017 - Sep 2018)
+
+Tiendanube is an ecosystem of services that provides products to build e-commerce systems through an intuitive and extensible platfrom that makes it easy to start your online business.
+
+As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities were:
+
 - Analysis, design and development of a new service responsible to process consumer's payments, aiming to replace the actual solution inside the monolith platform in PHP. This new micro-service was developed using a Scala based stack, implementing Actor Model using Akka framework, MongoDB for the persistence layer for the event sourcing and ActiveMQ for IPC.
 - Attend to Product Architecture Comitee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
 - Design, define and document IPC's for both internal and external integrations.
 
 Technology stack: PHP, Java, Scala, MySQL, MongoDB, Docker, Akka, ActiveMQ, Redis and more.
 
-#### ISET INTERNET INC.
-*Lead Software Engineer (Jan 2015 - Apr 2017)*
+### ISET INTERNET INC.
 
-> For the last two years in company, I've acted as the Lead Engineer in the web/mobile platform team, being responsible for:
+#### Lead Software Engineer (Jan 2015 - Apr 2017)
+
+For the last two years in company, I've acted as the Lead Engineer in the web/mobile platform team, being responsible for:
+
 - Analysis, design and development of the backend architecture for the mobile e-commerce platform
 - Help other engineers as a technical reference for the product development and key decision advisor
 - Research and development of tools and frameworks for the engineers working in the platform
@@ -64,9 +76,9 @@ Technology stack: PHP, Java, Scala, MySQL, MongoDB, Docker, Akka, ActiveMQ, Redi
 
 Technology stack: PHP, Python, JavaScript (NodeJS), MySQL, MongoDB, Docker, Redis and more.
 
-*Senior Software Engineer (Jan 2014 - Jan 2015)*
+#### Senior Software Engineer (Jan 2014 - Jan 2015)
 
-> One year after starting my job in the company and with the team growing I've got a set of new responsibilities, now focused in the backend architecture and development, and also the platform stability in production environments. Now, beyond the software development responsibilities, I was also responsible to:
+One year after starting my job in the company and with the team growing I've got a set of new responsibilities, now focused in the backend architecture and development, and also the platform stability in production environments. Now, beyond the software development responsibilities, I was also responsible to:
 
 - Monitor and maintain the e-commerce platform infrastructure doing performance tweaks in order support large processing times needed by background tasks dispatched by internal system components, also doing security fixes in order to platform reliability and security.
 - Implement and maintain a self-hosted version control system (GitLab).
@@ -75,7 +87,7 @@ Technology stack: PHP, Python, JavaScript (NodeJS), MySQL, MongoDB, Docker, Redi
 
 Technology stack: PHP, C Ansi, Python, JavaScript (NodeJS), MySQL, MongoDB, Redis and more.
 
-*Software Engineer (Jan 2013 - Jan 2014)*
+#### Software Engineer (Jan 2013 - Jan 2014)
 
 > ISET is a technology company from Belo Horizonte, Brazil, that provides digital products to its customers. The main product is an e-commerce platform (iShopping), integrated with other company products like CRM (iMarketing) and chatting (iChat) systems.
 
@@ -89,21 +101,24 @@ Technology stack: PHP, C Ansi, Python, JavaScript (NodeJS), MySQL, MongoDB, Redi
 
 Technology stack: PHP, JavaScript, MySQL, Redis and more.
 
-#### CARAVANE SOCIAL TRAVEL
-*Founder and CTO (Dec 2013 - Jan 2015)*
+### CARAVANE SOCIAL TRAVEL
 
-> Caravane was a social-travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans (a shared-trip model). I was one of the co-founders and I've worked mainly as a hands-on CTO along of the other founders. My main responsibilities was:
+#### Founder and CTO (Dec 2013 - Jan 2015)
+
+Caravane was a social-travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans (a shared-trip model). I was one of the co-founders and I've worked mainly as a hands-on CTO along of the other founders. My main responsibilities was:
 
 - Research the technology application to meet the market needings with help of the other founders.
 - Prioritize along of the other members the product backlog.
 - Develop the MVP for market validation, mainly in PHP and NodeJS for backend and vanilla JS and HTML for the frontend.
 - Build and validate dashboards with product metrics provided by monitoring and product analysis tools.
 
-#### APLUS TECNOLOGIA E ENGENHARIA
-*Software Developer (Jun 2011 - Jan 2013)*
+### APLUS TECNOLOGIA E ENGENHARIA
 
-> Aplus Tecnologia is a web-development agency where I mainly worked as a software developer.
-> This was my first experience as a full-time software developer, where I had the opportunity to learn more about the software development process from the initial analysis of a customer’s problem, to the delivery of the software artefact in the production environment. During this time, my main responsibilities was:
+#### Software Developer (Jun 2011 - Jan 2013)
+
+Aplus Tecnologia is a web-development agency where I mainly worked as a software developer.
+
+This was my first experience as a full-time software developer, where I had the opportunity to learn more about the software development process from the initial analysis of a customer’s problem, to the delivery of the software artefact in the production environment. During this time, my main responsibilities was:
 
 - Research and implement new technologies from scratch to meet the business requirements of each company’s customer.
 - Analysis and technical documentation of the software development process.
@@ -111,10 +126,11 @@ Technology stack: PHP, JavaScript, MySQL, Redis and more.
 - Maintain and improve two company products, a local guide website for restaurants and pubs and an ERP software.
 - Deployment and monitoring of applications running both in VPS and shared-cPanel based hosting servers.
 
-#### COMPUWAY ENSINO PROFISSIONALIZANTE
-*Course Instructor (Feb 2011 - Jun 2011)*
+### COMPUWAY ENSINO PROFISSIONALIZANTE
 
-> This was my first IT job, I was a course instructor in a local school, teaching classes about computer-related topics, the classes was mainly:
+#### Course Instructor (Feb 2011 - Jun 2011)*
+
+This was my first IT job, I was a course instructor in a local school, teaching classes about computer-related topics, the classes was mainly:
 
 - Basic Computing: How to use a personal computer to do simple tasks like internet browsing, e-mail conversations, write documents, spreadsheets and slide presentations using Microsoft Office's software suite and so on.
 - Advanced Computing: How to setup a computer for the work environment, how to manage computer files and its different formats and compression tools, how to manage data using Microsoft Office Access, and so on.
@@ -137,20 +153,20 @@ Technology stack: PHP, JavaScript, MySQL, Redis and more.
 ## Technical Background
 
 - Programming/Scripting Languages (separated by proficiency): 
-  - Advanced: C Ansi, Python, PHP, JavaScript (and NodeJS), Shell Script
-  - Intermediate: Java, Scala, C++, Objective Pascal
-  - Basic: Ruby, Clojure, Rust, Go, Hack, ActioScript
+  - Advanced: C/C++, Python, PHP, JavaScript (NodeJS), Shell Script
+  - Intermediate: Java, Scala, C++
+  - Basic: Ruby, Go, Rust
 - Frameworks and Tools (separated by language/technology): 
   - PHP: Symfony, Zend Framework, Silex, Laravel, CodeIgniter, Slim Doctrine, **PHP Core Extension Development**
-  - Java: SpringBoot, Play Framework, Netty
-  - Scala: Play Framework, Akka, Artery
+  - Java: Spring, Springboot, Play
+  - Scala: Play, Akka, Artery
   - C++: Boost, Qt
-  - JavaScript: jQuery, BackboneJS (and Marionette), AngularJS, EmberJS, Elm
+  - JavaScript: jQuery, BackboneJS (and Marionette), AngularJS, Elm
   - CSS: Sass, Less
   - NodeJS: ExpressJS, SailsJS, Socket.io
   - Hybrid Mobile Development: PhoneGap, Ionic
-  - Python: Flask, Django, NumPy, SciPy
-- Database and Object Storages: MySQL (and MariaDB), PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis, Memcached
+  - Python: Flask, NumPy, SciPy, PyAudio
+- Database and Object Storages: MySQL (and MariaDB), MongoDB, DynamoDB, Cassandra, Redis, Memcached
 - Operating Systems: Linux, OSX, Windows
 - Web Servers: Apache, nginx, Tomcat
 - Versioning: GIT
