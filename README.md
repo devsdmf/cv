@@ -10,43 +10,61 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 
 ## Summary
 
-> Experienced software architect/engineer, with expertise in scalable and distributed software design/development. Specialist in backend engineering with technical-background in C/C++, Java, PHP, Python, NodeJS and Scala, solving data challenges using relational and non-relational database systems like MySQL, PostgreSQL, MongoDB, Redis and Cassandra, also, I have experience using ELK stack, Hadoop, Apache Spark and Kafka streams, not least, I’ve faced some projects with focus in frontend development working with JavaScript, Bootstrap, Sass and so many other frameworks/tools, all these things using TDD, BDD and the best software engineering practices, leading development teams using Agile techniques and implementing delivery pipelines in cloud services like AWS, Google Cloud, Heroku and Digital Ocean.
+> Experienced software architect/engineer, focused in scalable and distributed software design/development, advocating for the software development best practices, using TDD and BDD in a daily-basis. Specialist in backend engineering with technical-background in C/C++, Java, PHP, Python, JavaScript and Scala, with experience in MySQL, MongoDB, Redis, DynamoDB, ElasticSearch, ActiveMQ, Kafka streams, Amazon Web Services (AWS) and more. Also, with experience designing distributed systems using DDD and other architectural and software engineering approaches like Event Sourcing, Event Collaboration and Actor Model-based systems.
 
 ## Work Experience
 
-#### TIENDA NUBE
-*Software Architect (May 2019 - Actually)*
-> After finished my work as a Technical Product Owner, I've got back to my previous role as a Software Architect, now working in the Fulfillments and Shipments team, responsible to:
-- Analysis, design and development of the new Fulfillments API that will replace the actual monolithic solution in PHP. This new service will be developed in the same stack as the brand new payments service that I developed in my previous role in the Payments team.
-- Help other engineers to maintain and develop new features in the core platform using PHP and JavaScript.
-- Attend to Product Architecture Committee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
-- Design, define and document the domain's IPC for both internal and external integrations.
+#### SYMPLA
+*Principal Software Architect (Oct 2019 - Actually)*
+> Sympla is the biggest SaaS ticketing platform in Brazil, and in this role I'm acting as the principal architect in the Engineering department, currently working in the whole platform architecture, migrating from a monolithic to a service oriented architecture approach. As a senior software engineer and principal architect, my main responsibilities consists in:
+- Analysis and design of business domains with product managers and analysts in order to identify the necessary services to compose the system's architecture.
+- Analysis, development and improvement of the existing software development processes with engineering managers enabling the squads to being high performers.
+- Analysis, development and documentation of new software systems using PHP, Java and Python to improve the product experience.
+- Research and development of new technologies and architectural patterns to solve complex problems in a scalable and maintainable way.
 
-*Technical Product Owner (Oct 2018 - May 2019)*
-> As a Technical Product Owner, I started to work in the Ecosystem team, that was responsible to develop and improve our public APIs and app's directory to provide an extensible platform experience to our customer through key-partnerships acquired by the Commercial Partners team. My main responsibilities in this role was:
-- Collect inputs from the stakeholders and develop a backlog for the team with those insights
-- Organize and prioritize the team's backlog in order to output cycles and sprints of work to meet the company objectives
-- Support a team of product engineers and product designers to meet the cycle/sprint objectives through daily and weekly meetings, helping them to get unblocked giving them the necessary information and tools to get their work done.
-- Provice team feedback through retrospective meetings and performance review processes in order to improve the team's health and the project's quality.
-- Write down, review and release developer resources to help partners that are willing to integrate with our products.
+Technology stack: PHP, Java, Python, JavaScript (NodeJS), Docker, Kubernetes, Rancher, MySQL, MongoDB, Redis, AWS Kinesis, ElasticSearch and more.
+
+#### TIENDA NUBE
+*Senior Software Architect (May 2019 - Sep 2019)*
+> After finished my job as a Technical Product Manager, I've got back to my previous role as a Software Architect, now working in the Fulfillment and Shipments team, responsible to:
+- Analysis and development of internal and external system integrations for the existing shipping carriers through the new technology stack using Java and Scala, addressing scalability and reliability issues.
+- Maintainance of the existing systems in the core platform to keep backward compatibility with the existing shipping carriers.
+- Analysis, design and development of new software systems to support the company strategy for shipments, including new services to manage fulfillments through a public API.
+- Attend to product architecture commitee meetings in order to discuss and help other software architects to design and address common issues between different business domains.
+
+Technology stack: PHP, Java, Scala, JavaScript, MySQL, MongoDB, Docker, Akka, Apache Kafka and more.
+
+*Technical Product Manager (Oct 2018 - May 2019)*
+> As a Technical Product Manager, I've got the challenge to build a new engineering team from scratch. The Ecosystem team had the mission to enable customers and partners to extend our product through public APIs in order to solve complex business problems. In this position I was responsible to lead the development of an API-based product, where I had to:
+
+- Collect meaningful inputs from both internal and external stakeholders to develop a product backlog.
+- Prioritize the product backlog using different strategies, always looking for the company OKRs.
+- Support a team of product engineers and product designers, running daily, weekly and monthly-based rituals and meetings in order to complete the product backlog.
+- Provide team both technical and behavioural feedback through retrospective meetings and performance review sessions, enabling them to be high performers.
+- Technical writing of API documentations, developer resources and releases of new features delivered in production.
+- Development and maintainance of SDKs and sample projects that serves as tools and reference to developers that are aiming to integrate with out public API.
 
 *Software Architect (Apr 2017 - Sep 2018)*
 > Tiendanube is an ecosystem of services that provides products to build e-commerce systems through an intuitive and extensible platfrom that makes it easy to start your online business.
-> As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities was:
-- Analysis, design and development of a new service responsible to process consumer's payments, aiming to replace the actual solution inside the monolith platform in PHP. This new micro-service was developed using a Scala based stack, implementing Actor Model using Akka framework, MongoDB for the persistence layer for the event sourcing and ActiveMQ for IPC
-- Attend to Product Architecture Comitee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services
-- Design, define and document IPC's for both internal and external integrations
+> As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities were:
+- Analysis, design and development of a new service responsible to process consumer's payments, aiming to replace the actual solution inside the monolith platform in PHP. This new micro-service was developed using a Scala based stack, implementing Actor Model using Akka framework, MongoDB for the persistence layer for the event sourcing and ActiveMQ for IPC.
+- Attend to Product Architecture Comitee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
+- Design, define and document IPC's for both internal and external integrations.
+
+Technology stack: PHP, Java, Scala, MySQL, MongoDB, Docker, Akka, ActiveMQ, Redis and more.
 
 #### ISET INTERNET INC.
-*Lead Backend Engineer (Jan 2015 - Apr 2017)*
+*Lead Software Engineer (Jan 2015 - Apr 2017)*
 
-> For the last two years in company, I've acted as the Lead Engineer in the mobile platform team, being responsible for:
+> For the last two years in company, I've acted as the Lead Engineer in the web/mobile platform team, being responsible for:
 - Analysis, design and development of the backend architecture for the mobile e-commerce platform
 - Help other engineers as a technical reference for the product development and key decision advisor
 - Research and development of tools and frameworks for the engineers working in the platform
 - Management and prioritization of the product backlog in a technical view along of the product leads and company executives
 
-*Backend Software Engineer and Site Reliability (Jan 2014 - Jan 2015)*
+Technology stack: PHP, Python, JavaScript (NodeJS), MySQL, MongoDB, Docker, Redis and more.
+
+*Senior Software Engineer (Jan 2014 - Jan 2015)*
 
 > One year after starting my job in the company and with the team growing I've got a set of new responsibilities, now focused in the backend architecture and development, and also the platform stability in production environments. Now, beyond the software development responsibilities, I was also responsible to:
 
@@ -54,6 +72,8 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 - Implement and maintain a self-hosted version control system (GitLab).
 - Research and analysis of new technologies to be used in our backend stack.
 - Develop and maintain a fresh new mailer service to be used by the new version of the CRM platform that was being developed by the another team. This new mailer service was named AwMailer and was developed using PHP and C++. The core functionality now is an open source project available at [GitHub](https://github.com/devsdmf/awmailer), but the internal extension for outgoing IP address balancing stills a proprietary project.
+
+Technology stack: PHP, C Ansi, Python, JavaScript (NodeJS), MySQL, MongoDB, Redis and more.
 
 *Software Engineer (Jan 2013 - Jan 2014)*
 
@@ -66,6 +86,8 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 - Integrate partner's services into the e-commerce core platform, like payment gateways, shipping carriers and new sales-channels, to improve the merchant's experience.
 - Develop and maintain internal tools to help other teams to integrate their products into the ours.
 - Implement a new contracting system for the company products from scratch using PHP, BackboneJS with MarionetteJS as the technology stack.
+
+Technology stack: PHP, JavaScript, MySQL, Redis and more.
 
 #### CARAVANE SOCIAL TRAVEL
 *Founder and CTO (Dec 2013 - Jan 2015)*
