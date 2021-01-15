@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+
+    background-color: #F9F9F9;
+    color: #434343;
+    margin: 80px 100px;
+}
+
+h1 {
+    font-size: 40px;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #DADADA;
+}
+
+h2 {
+    font-size: 28px;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #DADADA;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p, ul {
+    line-height: 1.6;
+}
+
+ul li {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #434343;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table td, table th {
+    border: 1px solid #DADADA;
+    padding: 10px;
+}
+
+table tr:first-child th {
+    border-top: 0;
+}
+
+table tr:last-child td {
+    border-bottom: 0;
+}
+
+table tr td:first-child,
+table tr th:first-child {
+    border-left: 0;
+}
+
+table tr td:last-child,
+table tr th:last-child {
+    border-right: 0;
+}
+
+@media print {
+    @page {
+        margin: 15mm 15mm;
+    }
+
+    body {
+        margin: 0px;
+    }
+}
