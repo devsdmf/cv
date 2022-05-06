@@ -14,9 +14,49 @@ Experienced software architect/engineer, focused in scalable and distributed sof
 
 ## Work Experience
 
+### TWILIO
+
+#### Senior Solutions Architect (Apr 2021 - Actually)
+
+Twilio is the leading customer engagement platform, providing products and tools to send SMS, WhatsApp, place calls, video conferences and others. At Twilio, I've worked on the Professional Services organization, helping customers to be successful using Twilio providing:
+
+- Architecture design to solve customer's problems using Twilio products
+- Technical advisory on product usage, best practices and troubleshooting
+- Development of reusable assets used as sample code / quickstart for new customer projects
+- Development of Twilio Flex plugins to customize Twilio's contact-center solution using ReactJS and NodeJS
+- Documentation of architecture design decisions along with other SAs
+
+Twilio Products: 
+
+- Flex
+- Frontline
+- Functions (Serverless)
+- Programmable Messaging (SMS, MMS, WhatsApp)
+- Programmable Video
+- Studio
+- Sync
+- TaskRouter
+
+Technology Stack: NodeJS, Java, Python, React
+
+
+### SENSEDIA
+
+#### Software Architecture Consultant (Aug 2020 - Apr 2021)
+
+Sensedia is an API platform that offers professional consulting services in software architecture and backend development, and in this role I'm working as a consultant for a customer in the payment processing market, and my main responsibilities consists in:
+
+- Analysis, design and development of a scalable, reliable and secure platform to develop payment-processing and banking services including automation, testing and software develivery tools
+- Design and implementation of reference architectures that meets the requirements of the product engineering teams
+- Teach the developers how to use the available reference architectures and platform services
+- Analysis, development and documentation of libraries to access and use the available platform services
+- Perform consulting sessions with the product engineers, helping them to design the product architecture using the available platform services
+
+Technology stack: NodeJS, TypeScript, Python, Microsoft Azure, Docker, MongoDB, Redis, etc.
+
 ### SYMPLA
 
-#### Principal Software Architect (Oct 2019 - Actually)
+#### Principal Software Architect (Oct 2019 - Aug 2020)
 
 Sympla is the biggest SaaS ticketing platform in Brazil, and in this role I'm acting as the principal architect in the Engineering department, currently working in the whole platform architecture, migrating from a monolithic to a service oriented architecture approach. As a senior software engineer and principal architect, my main responsibilities consists in:
 
