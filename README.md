@@ -10,185 +10,145 @@ SpeakerDeck: | [https://speakerdeck.com/devsdmf](https://speakerdeck.com/devsdmf
 
 ## Summary
 
-Experienced software architect/engineer, focused in scalable and distributed software design/development, advocating for the software development best practices, using TDD and BDD in a daily-basis. Specialist in backend engineering with technical-background in C/C++, Java, PHP, Python, JavaScript and Scala, with experience in MySQL, MongoDB, Redis, DynamoDB, ElasticSearch, ActiveMQ, Kafka streams, Amazon Web Services (AWS) and more. Also, with experience designing distributed systems using DDD and other architectural and software engineering approaches like Event Sourcing, Event Collaboration and Actor Model-based systems.
+I'm a Senior Solutions Architect at Amazon Web Services with over 10 years of experience helping companies build better software systems. Based in Brazil, I work with startups to design cloud-based solutions that help them grow their businesses faster and more efficiently. I've worked at major tech companies like AWS, Twilio, and several successful startups, where I've helped teams move from simple systems to more advanced, scalable platforms. I hold multiple AWS certifications and serve as a Subject Matter Expert for Infrastructure as Code, Mobile Development, and AI tools.
+
+Throughout my career, I've led engineering teams and architectural transformations at companies like Sympla, Brazil's largest ticketing platform, and Tiendanube, where I built teams from the ground up and modernized their technology infrastructure. I speak Portuguese, English, and Spanish, making me effective with international teams and clients. I'm passionate about mentoring other developers and have written several articles about software development best practices, combining my technical expertise with strong leadership and communication skills.
 
 ## Work Experience
 
-### TWILIO
+### Amazon Web Services (AWS)
+#### Senior Solutions Architect (Sep 2022 - Actual)
 
-#### Senior Solutions Architect (Apr 2021 - Actually)
+As a Senior Solutions Architect at Amazon Web Services, the world's most comprehensive and broadly adopted cloud platform, I provide strategic technical guidance to customers within the Startups organization. I specialize in delivering software architecture best practices and cost-optimized, AI&ML based piece of software (demos and POCs) and scalable solutions that enable fast innovation to help customer achieve their business objectives through effective cloud adoption.
 
-Twilio is the leading customer engagement platform, providing products and tools to send SMS, WhatsApp, place calls, video conferences and others. At Twilio, I've worked on the Professional Services organization, helping customers to be successful using Twilio providing:
+My responsibilities include managing complex customer projects with key stakeholders and partners, facilitating rapid service adoption and architecture pattern implementation. Additionally, I serve as a Subject Matter Expert (SME) for Infrastructure as Code (IaaC), Mobile and Front-end Development and Generative AI tools for developers within the Next Gen Developer Experience Technical Field Community (TFC), where I mentor fellow Solutions Architects and guide customers in implementing cutting-edge infrastructure automation techniques and tools.
 
-- Architecture design to solve customer's problems using Twilio products
-- Technical advisory on product usage, best practices and troubleshooting
-- Development of reusable assets used as sample code / quickstart for new customer projects
-- Development of Twilio Flex plugins to customize Twilio's contact-center solution using ReactJS and NodeJS
-- Documentation of architecture design decisions along with other SAs
+Skills: Solution Architecture, Software Architectural Design, Architectural Patterns, Cloud Computing, Amazon Web Services (AWS), Terraform, CDK, Pulumi, JavaScript, Python, Java, TypeScript, React.js
 
-Twilio Products: 
+### Twilio
+#### Senior Solutions Architect (Apr 2021 - Sep 2022)
 
-- Flex
-- Frontline
-- Functions (Serverless)
-- Programmable Messaging (SMS, MMS, WhatsApp)
-- Programmable Video
-- Studio
-- Sync
-- TaskRouter
+As a Senior Solutions Architect at Twilio, the world's leading customer engagement platform, I delivered strategic technical consulting to enterprise clients across the Americas, including companies such as Toyota, Globant, Kavak and others. I specialized in architecting comprehensive messaging solutions that integrated SMS, WhatsApp, voice, and video capabilities to drive customer engagement and business outcomes.
 
-Technology Stack: NodeJS, Java, Python, React
+I delivered expert technical advisory services, developed best practices frameworks, and created custom solutions tailored to client requirements. Additionally, I spearheaded the development of reusable contact center assets and led the CI/CD SME program, mentoring fellow SAs and establishing delivery standards across the organization.
 
+Skills: Solution Architecture, Software Architectural Design, Twilio, Enterprise Integration Patterns, Apex Programming, Java, JavaScript, TypeScript, React.js, Python
 
-### SENSEDIA
-
+### Sensedia 
 #### Software Architecture Consultant (Aug 2020 - Apr 2021)
 
-Sensedia is an API platform that offers professional consulting services in software architecture and backend development, and in this role I'm working as a consultant for a customer in the payment processing market, and my main responsibilities consists in:
+As a Senior Software Architect Consultant at Sensedia, a leading API platform company specializing in software architecture and backend development services, I've provided strategic consulting to a customer in the digital payments industry. I've focused on designing and developing scalable, reliable, and secure platforms for payment processing and banking services, incorporating comprehensive automation, testing, and software delivery tools to ensure robust technology operations.
 
-- Analysis, design and development of a scalable, reliable and secure platform to develop payment-processing and banking services including automation, testing and software develivery tools
-- Design and implementation of reference architectures that meets the requirements of the product engineering teams
-- Teach the developers how to use the available reference architectures and platform services
-- Analysis, development and documentation of libraries to access and use the available platform services
-- Perform consulting sessions with the product engineers, helping them to design the product architecture using the available platform services
+My responsibilities included creating reference architectures tailored to product engineering team requirements and delivering comprehensive guidance and mentorship to developers on platform services and architectural patterns. I've also developed and documented libraries that streamline platform service access, conduct strategic consulting sessions with product engineers, and guided teams in designing optimal product architectures using available platform capabilities to drive innovation and accelerate development cycles.
 
-Technology stack: NodeJS, TypeScript, Python, Microsoft Azure, Docker, MongoDB, Redis, etc.
+Skills: Microsoft Azure, Azure DevOps, Active Directory, JavaScript, Java, Scala, Python, Enterprise Integration Patterns, Apache Kafka, ActiveMQ, Solution Architecture, Platform Engineering, Kubernetes
 
-### SYMPLA
-
+### Sympla 
 #### Principal Software Architect (Oct 2019 - Aug 2020)
 
-Sympla is the biggest SaaS ticketing platform in Brazil, and in this role I'm acting as the principal architect in the Engineering department, currently working in the whole platform architecture, migrating from a monolithic to a service oriented architecture approach. As a senior software engineer and principal architect, my main responsibilities consists in:
+As Principal Architect at Sympla, Brazil's largest SaaS ticketing platform, I've led the engineering department's strategic architectural transformation, spearheading the migration from a monolithic system to a modern service-oriented architecture. I collaborate closely with product managers and analysts to analyze business domains and design the necessary micro-services that compose our scalable system architecture.
 
-- Analysis and design of business domains with product managers and analysts in order to identify the necessary services to compose the system's architecture.
-- Analysis, development and improvement of the existing software development processes with engineering managers enabling the squads to being high performers.
-- Analysis, development and documentation of new software systems using PHP, Java and Python to improve the product experience.
-- Research and development of new technologies and architectural patterns to solve complex problems in a scalable and maintainable way.
+My responsibilities was developing and optimizing software development processes alongside engineering managers to enable high-performing development squads. I've architected, developed, and documented new software systems using PHP, Java, and Python to enhance product experience, while conducting research and development of innovative technologies and architectural patterns that solve complex scalability and maintainability challenges across the platform.
 
-Technology stack: PHP, Java, Python, JavaScript (NodeJS), Docker, Kubernetes, Rancher, MySQL, MongoDB, Redis, AWS Kinesis, ElasticSearch and more.
+Skills: PHP, Java, DevOps, Python, Docker, Kubernetes, Rancher, Amazon Web Services (AWS), MongoDB, Redis, Apache Kafka, Amazon Kinesis, Elasticsearch
 
-### TIENDA NUBE
-
+### Tiendanube
 #### Senior Software Architect (May 2019 - Sep 2019)
 
-After finished my job as a Technical Product Manager, I've got back to my previous role as a Software Architect, now working in the Fulfillment and Shipments team, responsible to:
+After completing my tenure as Technical Product Manager, I returned to my Software Architect role within the Fulfillment and Shipments team, where I focused on modernizing and scaling the company's logistics infrastructure. I led the analysis and development of internal and external system integrations for shipping carriers using Java and Scala, addressing critical scalability and reliability challenges while maintaining seamless operations.
 
-- Analysis and development of internal and external system integrations for the existing shipping carriers through the new technology stack using Java and Scala, addressing scalability and reliability issues.
-- Maintainance of the existing systems in the core platform to keep backward compatibility with the existing shipping carriers.
-- Analysis, design and development of new software systems to support the company strategy for shipments, including new services to manage fulfillments through a public API.
-- Attend to product architecture commitee meetings in order to discuss and help other software architects to design and address common issues between different business domains.
+My responsibilities included maintaining backward compatibility across existing core platform systems and designing new software systems that supported the company's strategic shipment initiatives, including public API services for fulfillment management. Additionally, I led product architecture committee meetings, collaborating with fellow software architects to design solutions and address cross-domain technical challenges that drove organizational efficiency and innovation.
 
-Technology stack: PHP, Java, Scala, JavaScript, MySQL, MongoDB, Docker, Akka, Apache Kafka and more.
+Skills: Java, Scala, MongoDB, MySQL, Docker, Akka, Apache Kafka
 
 #### Technical Product Manager (Oct 2018 - May 2019)
 
-As a Technical Product Manager, I've got the challenge to build a new engineering team from scratch. The Ecosystem team had the mission to enable customers and partners to extend our product through public APIs in order to solve complex business problems. In this position I was responsible to lead the development of an API-based product, where I had to:
+As Technical Product Manager, I accepted the challenge of building a new engineering team from the ground up. The Ecosystem team was tasked with enabling customers and partners to extend our product through public APIs to solve complex business problems. I led the development of an API-based product, collecting meaningful inputs from internal and external stakeholders to develop a comprehensive product backlog aligned with company OKRs.
 
-- Collect meaningful inputs from both internal and external stakeholders to develop a product backlog.
-- Prioritize the product backlog using different strategies, always looking for the company OKRs.
-- Support a team of product engineers and product designers, running daily, weekly and monthly-based rituals and meetings in order to complete the product backlog.
-- Provide team both technical and behavioural feedback through retrospective meetings and performance review sessions, enabling them to be high performers.
-- Technical writing of API documentations, developer resources and releases of new features delivered in production.
-- Development and maintainance of SDKs and sample projects that serves as tools and reference to developers that are aiming to integrate with out public API.
+My responsibilities included prioritizing product initiatives using strategic frameworks and supporting a cross-functional team of product engineers and designers through daily, weekly, and monthly rituals to deliver backlog objectives. I provided technical and behavioral feedback through retrospective meetings and performance reviews, fostering high-performance team culture. Additionally, I authored API documentation and developer resources, developed and maintained SDKs and sample projects that served as integration tools and references for developers working with our public API platform.
+
+Skills: Ecommerce, Platform Engineering, API Development, Apigee, Amazon Web Services (AWS), Project Management, Product Management
 
 #### Software Architect (Apr 2017 - Sep 2018)
 
-Tiendanube is an ecosystem of services that provides products to build e-commerce systems through an intuitive and extensible platfrom that makes it easy to start your online business.
+As a Software Architect at Tiendanube, an ecosystem of services providing intuitive and extensible e-commerce platform solutions, I tackled complex architectural challenges within the Consumers team, which was responsible for optimizing the purchase experience. I spearheaded the migration from a monolithic architecture to a service-oriented and microservices approach, focusing on scalability and maintainability improvements across the platform.
 
-As a Software Architect, I've got to tackle the challenges in the Consumers team, responsible for the purchase experience. I've worked to achieve the best solution for architectural problems in the migration process from a monolithic to a service-oriented and micro-services architecture. My main responsibilities were:
+My key responsibilities included designing and developing a new payment processing micro-service to replace the existing PHP-based monolithic solution. I implemented this critical service using a modern Scala-based technology stack, leveraging the Actor Model with Akka framework for concurrent processing, MongoDB for event sourcing persistence, and ActiveMQ for inter-process communication. Additionally, I participated in Product Architecture Committee meetings, collaborating with fellow architects to design the company's macro-architecture using Domain-Driven Design (DDD) principles to decompose the monolith into domain-oriented services, while designing and documenting comprehensive inter-process communication protocols for both internal and external system integrations.
 
-- Analysis, design and development of a new service responsible to process consumer's payments, aiming to replace the actual solution inside the monolith platform in PHP. This new micro-service was developed using a Scala based stack, implementing Actor Model using Akka framework, MongoDB for the persistence layer for the event sourcing and ActiveMQ for IPC.
-- Attend to Product Architecture Comitee meetings in order to help other architects to design the macro-architecture of the company products, using DDD to split the monolith in domain-oriented services.
-- Design, define and document IPC's for both internal and external integrations.
+Skills: Platform Architecture, PHP, Scala, Java, MySQL, MongoDB, Docker, Akka, ActiveMQ, Redis, Software Architectural Design
 
-Technology stack: PHP, Java, Scala, MySQL, MongoDB, Docker, Akka, ActiveMQ, Redis and more.
 
-### ISET INTERNET INC.
-
+### iSET Internet Inc.
 #### Lead Software Engineer (Jan 2015 - Apr 2017)
 
-For the last two years in company, I've acted as the Lead Engineer in the web/mobile platform team, being responsible for:
+My core responsibilities encompassed designing and developing robust backend system architectures specifically tailored to support mobile e-commerce platform requirements, ensuring scalability and performance optimization. I spearheaded research and implementation of cutting-edge software development tools and best practices that enabled the team to operate at peak efficiency. Additionally, I collaborated closely with product leads and company executives to manage and prioritize the product backlog from a technical perspective, ensuring alignment between business objectives and technical feasibility while driving strategic platform evolution.
 
-- Analysis, design and development of the backend architecture for the mobile e-commerce platform
-- Help other engineers as a technical reference for the product development and key decision advisor
-- Research and development of tools and frameworks for the engineers working in the platform
-- Management and prioritization of the product backlog in a technical view along of the product leads and company executives
+During my final two years with the company, I advanced to Lead Engineer for the web/mobile platform team, where I took on comprehensive technical leadership responsibilities that combined hands-on development with strategic team management. I led a team of over 5 developers, providing daily technical assistance and fostering professional development to maximize individual and collective performance across complex e-commerce platform initiatives. 
 
-Technology stack: PHP, Python, JavaScript (NodeJS), MySQL, MongoDB, Docker, Redis and more.
+Skills: PHP, Python, JavaScript, MySQL, MongoDB, Docker, Redis, Amazon Web Services (AWS)
 
 #### Senior Software Engineer (Jan 2014 - Jan 2015)
 
-One year after starting my job in the company and with the team growing I've got a set of new responsibilities, now focused in the backend architecture and development, and also the platform stability in production environments. Now, beyond the software development responsibilities, I was also responsible to:
+One year after joining the company, as the team expanded, I transitioned into a senior role with enhanced responsibilities focused on backend architecture, development, and production platform stability. Beyond core software development, I took ownership of critical infrastructure and platform reliability initiatives that supported the company's growing operational demands.
 
-- Monitor and maintain the e-commerce platform infrastructure doing performance tweaks in order support large processing times needed by background tasks dispatched by internal system components, also doing security fixes in order to platform reliability and security.
-- Implement and maintain a self-hosted version control system (GitLab).
-- Research and analysis of new technologies to be used in our backend stack.
-- Develop and maintain a fresh new mailer service to be used by the new version of the CRM platform that was being developed by the another team. This new mailer service was named AwMailer and was developed using PHP and C++. The core functionality now is an open source project available at [GitHub](https://github.com/devsdmf/awmailer), but the internal extension for outgoing IP address balancing stills a proprietary project.
+My expanded responsibilities included monitoring and maintaining the e-commerce platform infrastructure, implementing performance optimizations to support intensive background task processing and applying security fixes to ensure platform reliability. I implemented and maintained a self-hosted GitLab version control system, conducted research and analysis of emerging backend technologies, and developed AwMailer, a comprehensive mailer service for the new CRM platform using PHP and C++. This service featured advanced outgoing IP address balancing capabilities, with the core functionality later released as an open-source project on GitHub while maintaining proprietary internal extensions.
 
-Technology stack: PHP, C Ansi, Python, JavaScript (NodeJS), MySQL, MongoDB, Redis and more.
+Skills: PHP, C++, Python, JavaScript, MySQL, MongoDB, Redis, Amazon Web Services (AWS)
+
 
 #### Software Engineer (Jan 2013 - Jan 2014)
 
- ISET is a technology company from Belo Horizonte, Brazil, that provides digital products to its customers. The main product is an e-commerce platform (iShopping), integrated with other company products like CRM (iMarketing) and chatting (iChat) systems.
+As a Software Engineer at ISET, a technology company from Belo Horizonte, Brazil, that provides integrated digital products including an e-commerce platform (iShopping), CRM system (iMarketing), and chat solution (iChat), I worked on core platform development and feature enhancement. I maintained and implemented new features across the e-commerce and chatting platforms using PHP and JavaScript, while integrating third-party services such as payment gateways, shipping carriers, and sales channels to enhance merchant experience.
 
- As a software engineer, I started to work with the e-commerce and chatting platform, mainly responsible to:
+My responsibilities included developing and maintaining internal tools that enabled cross-team product integration and collaboration. I also led the development of a new contracting system for company products from the ground up, implementing a modern technology stack using PHP for backend services and BackboneJS with MarionetteJS for frontend functionality, delivering a comprehensive solution that streamlined the customer onboarding and contract management process.
 
-- Maintain and implement new features in the e-commerce platform using PHP as the main language.
-- Maintain and implement new features in the chatting platform using PHP and JavaScript.
-- Integrate partner's services into the e-commerce core platform, like payment gateways, shipping carriers and new sales-channels, to improve the merchant's experience.
-- Develop and maintain internal tools to help other teams to integrate their products into the ours.
-- Implement a new contracting system for the company products from scratch using PHP, BackboneJS with MarionetteJS as the technology stack.
+Skills: PHP, JavaScript, MySQL, Redis, Amazon Web Services (AWS)
 
-Technology stack: PHP, JavaScript, MySQL, Redis and more.
-
-### CARAVANE SOCIAL TRAVEL
-
+### Caravane Social Travel
 #### Founder and CTO (Dec 2013 - Jan 2015)
+As Co-Founder and Chief Technology Officer at Caravane, a social travel startup based in Belo Horizonte that provides a comprehensive platform for organizing and managing travel caravans, I lead the technical vision and product development strategy. I drive the intersection of market research, technology innovation, and user experience validation to build scalable solutions that connect travelers and facilitate group travel experiences.
 
-Caravane was a social-travel startup based in Belo Horizonte, that offers a platform to organize and manage caravans (a shared-trip model). I was one of the co-founders and I've worked mainly as a hands-on CTO along of the other founders. My main responsibilities was:
+My core responsibilities encompass conducting comprehensive market research to identify technology applications and opportunities within the social travel space, ensuring our platform addresses real user needs and market gaps. I spearhead the development and maintenance of our minimum viable product (MVP), implementing agile development practices and modern technology stacks to deliver robust, user-centric features that enable seamless caravan organization and management. Additionally, I lead technology experience validation initiatives, gathering user feedback, analyzing platform performance metrics, and iterating on product features to optimize user engagement and platform effectiveness in the competitive travel technology landscape.
 
-- Research the technology application to meet the market needings with help of the other founders.
-- Prioritize along of the other members the product backlog.
-- Develop the MVP for market validation, mainly in PHP and NodeJS for backend and vanilla JS and HTML for the frontend.
-- Build and validate dashboards with product metrics provided by monitoring and product analysis tools.
-
-### APLUS TECNOLOGIA E ENGENHARIA
+### Aplus Tecnologia
 
 #### Software Developer (Jun 2011 - Jan 2013)
 
-Aplus Tecnologia is a web-development agency where I mainly worked as a software developer.
+As a Software Developer at Aplus Tecnologia, a web development agency, I gained foundational experience in full-stack development and the complete software development lifecycle. This role marked my first full-time software development position, where I learned to navigate the entire process from initial customer problem analysis through production deployment and maintenance.
 
-This was my first experience as a full-time software developer, where I had the opportunity to learn more about the software development process from the initial analysis of a customer’s problem, to the delivery of the software artefact in the production environment. During this time, my main responsibilities was:
+My responsibilities encompassed researching and implementing new technologies from scratch to meet diverse business requirements across the agency's client portfolio. I conducted technical analysis and documentation of software development processes, developed web applications using PHP, Ruby, and JavaScript, and maintained two key company products: a local restaurant and pub guide website and an ERP software solution. Additionally, I managed application deployment and monitoring across both VPS and shared cPanel-based hosting environments, gaining comprehensive experience in production operations and system administration.
 
-- Research and implement new technologies from scratch to meet the business requirements of each company’s customer.
-- Analysis and technical documentation of the software development process.
-- Develop web applications using PHP, Ruby and JavaScript.
-- Maintain and improve two company products, a local guide website for restaurants and pubs and an ERP software.
-- Deployment and monitoring of applications running both in VPS and shared-cPanel based hosting servers.
+Skills: PHP, JavaScript, HTML, CSS, Wordpress
 
-### COMPUWAY ENSINO PROFISSIONALIZANTE
-
+### Compuway
 #### Course Instructor (Feb 2011 - Jun 2011)*
+As a Course Instructor at a local IT school, I began my technology career in education, teaching comprehensive computer-related curricula to students across multiple skill levels. This foundational role provided me with extensive experience in knowledge transfer and technical communication, skills that would prove invaluable throughout my subsequent career in software development and technical leadership.
 
-This was my first IT job, I was a course instructor in a local school, teaching classes about computer-related topics, the classes was mainly:
-
-- Basic Computing: How to use a personal computer to do simple tasks like internet browsing, e-mail conversations, write documents, spreadsheets and slide presentations using Microsoft Office's software suite and so on.
-- Advanced Computing: How to setup a computer for the work environment, how to manage computer files and its different formats and compression tools, how to manage data using Microsoft Office Access, and so on.
-- Web Design: Classes about design and coding web pages using basic HTML and CSS techniques.
-- Web Development: Classes about web development using PHP and MySQL databases.
-- Hardware e Computer Maintenance: Classes about the computer components, how to setup a new computer from the scratch, backup techniques and broken component replacements.
-- Setup and Administration of Computer Networks: Classes about network setup using Microsoft Windows Server, Active Directory configuration and also the configuration of network devices like routes, repeaters and hubs.
+My teaching responsibilities encompassed a diverse range of technical subjects, from Basic Computing fundamentals including Microsoft Office suite proficiency and internet navigation, to Advanced Computing topics covering system setup, file management, and database administration using Microsoft Access. I also delivered specialized courses in Web Design using HTML and CSS, Web Development with PHP and MySQL databases, Hardware and Computer Maintenance covering component assembly and troubleshooting, and Network Setup and Administration using Microsoft Windows Server and Active Directory configuration. This comprehensive teaching experience established my foundation in both technical expertise and the ability to communicate complex concepts effectively to diverse audiences.
 
 ## Education
-
 #### Bachelor of Applied Science (B.A.Sc.), Computer Science
 *Pontifical Catholic University of Minas Gerais (Jan 2015 - Jun 2017 / Hold)*
 
 #### Associate of Arts and Sciences (A.A.S.), Information Technology
 *Polytechnic School of Minas Gerais (Jan 2009 - Dec 2011)* 
 
-#### Silverlight and SharePoint Certification Program
-*Microsoft Student to Business (Jul 2011 - Dec 2011)*
+## Certifications
+
+#### AWS Certified AI Practitioner
+_Issued: Feb 2025 - Expires: Feb 2028_
+
+#### AWS Certified Developer - Associate
+_Issued: Nov 2024 - Expires: Nov 2027_
+
+#### AWS Certified SysOps Administrator - Associate
+_Issued: Nov 2024 - Expires: Nov 2027_
+
+#### AWS Certified Solutions Architect - Associate
+_Issued: July 2024 - Expires: July 2027_
+
+#### Microsoft Certified Professional Developer: Silverlight 4 (MCPD)
+_Issued: July 2011 - Expired: July 2014_
 
 ## Technical Background
 
